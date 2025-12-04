@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.env
+data/raw/
+saved_models/
+logs/
+.DS_Store
+*.h5
+*.pth
