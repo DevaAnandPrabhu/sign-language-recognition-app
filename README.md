@@ -16,4 +16,7 @@ This project recognizes American Sign Language (ASL) alphabet hand signs from im
 - Pillow  
 - Gradio
 
+## Project links
+
+- GitHub repository: https://github.com/DevaAnandPrabhu/sign-language-recognition-app
 
